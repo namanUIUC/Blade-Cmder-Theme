@@ -1,4 +1,4 @@
-![Blade Logo](https://raw.githubusercontent.com/namanUIUC/Blade-Cmder-Theme/master/Poster.jpg)
+![Blade Logo](https://raw.githubusercontent.com/namanUIUC/Blade-Cmder-Theme/master/BladePoster.jpg)
 
 ## 🐼 All about Blade?
 [@BladeTheme](https://github.com/namanUIUC/Blade-Cmder-Theme)  A _Superminimal_, _dark_ Syntax Theme by [@siamak](http://github.com/Siamak). This is the latest version of the **Panda Syntax** theme. It's a _dark_ syntax theme crafted especially for [Cmder](http://cmder.net/), with subtle colors that are meant to be easy on the eyes.
