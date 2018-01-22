@@ -1,37 +1,21 @@
 ![Blade Logo](https://github.com/namanUIUC/Blade-Cmder-Theme/blob/master/BladePoster.png)
 
-## 🐼 All about Blade?
-[@BladeTheme](https://github.com/namanUIUC/Blade-Cmder-Theme)  A _Superminimal_, _dark_ Syntax Theme by [@siamak](http://github.com/Siamak). This is the latest version of the **Panda Syntax** theme. It's a _dark_ syntax theme crafted especially for [Cmder](http://cmder.net/), with subtle colors that are meant to be easy on the eyes.
+## 🔪 All about Blade?
+[@BladeTheme](https://github.com/namanUIUC/Blade-Cmder-Theme)  A _sharply minimal_, _optimized_ Syntax Theme by [@Naman](http://github.com/namanUIUC). The _Blade_ syntax theme is crafted especially for [Cmder](http://cmder.net/), with sharp colors that would help you optimize your performance and look cool at the same time.
 
 ---
-![Main ScreenShot](https://raw.githubusercontent.com/siamak/Panda-Theme-Cmder/master/screenshot.jpg)
+![Main ScreenShot](https://github.com/namanUIUC/Blade-Cmder-Theme/blob/master/Screenshot.png)
 ---
 
-## ⌨️ How to Use
-1. Download `Panda-Theme-Cmder.xml`
+## ⌨️ Follow the steps to use Blade Theme
+1. Download `Blade-Cmder-Theme.xml`
 2. Open cmder.exe and click on cmder icon on title bar after this click `Settings` or press <kbd>win + alt + p</kbd>
-3. In bottom of settings window click `Import...` button and choose `Panda-Theme-Cmder.xml`
+3. In bottom of settings window click `Import...` button and choose `Blade-Cmder-Theme.xml`
 4. Confirm changes and click on `Save settings`.
 
-### Do not Want to Lose Other Settings ?
-1. Open cmder.exe and click on cmder icon on title bar after this click on `Settings` or press <kbd>win + alt + p</kbd>
-2. Go to `Colors` sub of `Features` setting and change standard colors to colors of this image:
-3. Click on `Save settings`.
-![Cmder Settings](http://s1.picofile.com/file/8262127134/settings.jpg)
 
-Congratulations your Panda Theme is present
+Enjoy your Blade Theme!
 
-##Contributors:
-- [Hamid Faraji](http://twitter.com/hamidgreedy)
-- [Siamak Mokhtari](http://siamak.us)
+##Contributor:
+- [Naman Shukla](http://twitter.com/hamidgreedy)
 
-## 🐼 About Pandas
-![Pandas ScreenShot](https://raw.githubusercontent.com/siamak/atom-panda-syntax/master/screenshots/pandas.png)
-
-1. Sleep 12-14 hours per day
-2. Eat 12-14 hours per day
-3. Consume 10 to 18 kilos of raw bamboo per day
-4. Poop 10 to 18 kilos of processed bamboo per day.
-5. Panda sex is awkward. Naps are much more fun.
-
-> Picture & Contents from: https://dribbble.com/shots/2354579-Panda-Icon-Party.
