@@ -15,7 +15,8 @@
 
 
 Enjoy your Blade Theme!
+---
 
-##Contributor:
+## Contributor:
 - [Naman Shukla](http://twitter.com/hamidgreedy)
 
