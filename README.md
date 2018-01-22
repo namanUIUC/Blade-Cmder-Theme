@@ -12,6 +12,7 @@
 2. Open cmder.exe and click on cmder icon on title bar after this click `Settings` or press <kbd>win + alt + p</kbd>
 3. In bottom of settings window click `Import...` button and choose `Blade-Cmder-Theme.xml`
 4. Confirm changes and click on `Save settings`.
+
 Enjoy your Blade Theme!
 
 
